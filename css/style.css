@@ -32,4 +32,12 @@ body {
 
 .navbar {
         font-size: 18px;
+        color: #fff;
+	text-decoration: none;
+	font-weight: 500;
+	margin-left: 15px;
+	transition: 3s;
+}
+.navbar:hover {
+	color: #Def;
 }
